@@ -6,7 +6,7 @@ function Education() {
        <div className="edu-text">
         <h1 className="edu-h">Education</h1>
         <p className="edu-p">Trusted by Professionals for Exceptional Quality and Service Our clients form various industries turst us to deliver top-notch quality and results. 
-            Here's what they have to say about our work..</p>
+            Here is what they have to say about our work..</p>
        </div>
        {/* box 1 */}
        <div className="box-con-edu">
