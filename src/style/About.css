@@ -1,0 +1,28 @@
+.hero-container {
+    height: 453px;
+}
+
+.social-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.s-icon1 {
+    font-size: 35px;
+    color: red;
+    margin: 5px;
+}
+
+.s-icon2 {
+    font-size: 30px;
+    columns: blue;
+    margin: 5px;
+}
+
+.s-icon3 {
+    font-size: 30px;
+    columns: palevioletred;
+    margin: 5px;
+}

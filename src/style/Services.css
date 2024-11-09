@@ -1,0 +1,87 @@
+.main {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px; 
+}
+
+
+.ser-container {
+    width: 80%;
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
+
+
+.top-div-ser {
+    width: 50%;
+    background-color: green;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.boxes-con {
+    width: 100%;
+    display: flex;
+    margin-top: 30px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    width: 300px;
+    height: 250px;
+    background-color: white;
+    border: 2px solid gray;
+    margin: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+}
+
+.titile-ser {
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+}
+
+.des-ser {
+    margin-top: 20px;
+}
+
+.ser-icon {
+    font-size: 120px;
+    margin-top: 20px;
+}
+
+.box-h {
+    margin-top: 20px;
+}
+
+.box-p {
+    width: 250px;
+}
+ 
+.ser-telephone {
+    font-size: 20px;
+}
+
+.ser-email {
+     font-size: 20px;
+}
+
+@media screen and (min-width:100px) and (max-width:750px) {
+    .top-div-ser {
+        width: 80%;
+    }
+
+
+} 
